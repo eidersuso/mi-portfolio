@@ -73,11 +73,6 @@ export default class header extends Component {
           </li>
           <li>
             <a href="#">
-              <i className="fa fa-twitter" />
-            </a>
-          </li>
-          <li>
-            <a href="#">
               <i className="fa fa-google-plus" />
             </a>
           </li>
