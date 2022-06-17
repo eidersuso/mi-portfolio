@@ -67,8 +67,8 @@ export default class header extends Component {
         <hr />
         <ul className="social">
           <li>
-            <a href="#">
-              <i className="fa fa-facebook" />
+            <a href="https://github.com/eidersuso">
+              <i className="fa fa-github" />
             </a>
           </li>
           <li>
